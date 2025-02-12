@@ -1,0 +1,88 @@
+efficientNet Model Accuracy [] =>>> 
+Calculating Per-Class Validation Accuracy...
+Validation Progress: 2000it [03:09, 10.58it/s]
+
+Final Per-Class Validation Accuracy:
+
+Apple___Apple_scab: Validation Accuracy = 76.70%
+Apple___Black_rot: Validation Accuracy = 95.08%
+Apple___Cedar_apple_rust: Validation Accuracy = 88.34%
+Apple___healthy: Validation Accuracy = 92.18%
+Blueberry___healthy: Validation Accuracy = 97.27%
+Cherry_(including_sour)_Powdery_mildew: Validation Accuracy = 93.28%
+Cherry_(including_sour)_healthy: Validation Accuracy = 98.47%
+Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot: Validation Accuracy = 72.24%
+Corn_(maize)Common_rust: Validation Accuracy = 99.30%
+Corn_(maize)_Northern_Leaf_Blight: Validation Accuracy = 88.51%
+Corn_(maize)_healthy: Validation Accuracy = 99.64%
+Grape___Black_rot: Validation Accuracy = 88.72%
+Grape__Esca(Black_Measles): Validation Accuracy = 94.43%
+Grape__Leaf_blight(Isariopsis_Leaf_Spot): Validation Accuracy = 96.55%
+Grape___healthy: Validation Accuracy = 96.60%
+Orange__Haunglongbing(Citrus_greening): Validation Accuracy = 99.47%
+Peach___Bacterial_spot: Validation Accuracy = 94.48%
+Peach___healthy: Validation Accuracy = 92.71%
+Pepper,bell__Bacterial_spot: Validation Accuracy = 89.57%
+Pepper,bell__healthy: Validation Accuracy = 94.74%
+Potato___Early_blight: Validation Accuracy = 93.45%
+Potato___Late_blight: Validation Accuracy = 83.63%
+Potato___healthy: Validation Accuracy = 71.57%
+Raspberry___healthy: Validation Accuracy = 97.51%
+Soybean___healthy: Validation Accuracy = 98.83%
+Squash___Powdery_mildew: Validation Accuracy = 99.28%
+Strawberry___Leaf_scorch: Validation Accuracy = 97.30%
+Strawberry___healthy: Validation Accuracy = 93.10%
+Tomato___Bacterial_spot: Validation Accuracy = 88.69%
+Tomato___Early_blight: Validation Accuracy = 48.30%
+Tomato___Late_blight: Validation Accuracy = 79.35%
+Tomato___Leaf_Mold: Validation Accuracy = 73.76%
+Tomato___Septoria_leaf_spot: Validation Accuracy = 77.68%
+Tomato___Spider_mites Two-spotted_spider_mite: Validation Accuracy = 86.04%
+Tomato___Target_Spot: Validation Accuracy = 76.24%
+Tomato___Tomato_Yellow_Leaf_Curl_Virus: Validation Accuracy = 95.50%
+Tomato___Tomato_mosaic_virus: Validation Accuracy = 78.35%
+Tomato___healthy: Validation Accuracy = 95.35%
+
+Calculating Per-Class Test Accuracy...
+Test Progress: 2000it [03:06, 10.71it/s]
+
+Final Per-Class Test Accuracy:
+
+Apple___Apple_scab: Test Accuracy = 85.51%
+Apple___Black_rot: Test Accuracy = 97.29%
+Apple___Cedar_apple_rust: Test Accuracy = 92.06%
+Apple___healthy: Test Accuracy = 94.90%
+Blueberry___healthy: Test Accuracy = 99.18%
+Cherry_(including_sour)_Powdery_mildew: Test Accuracy = 96.52%
+Cherry_(including_sour)_healthy: Test Accuracy = 98.38%
+Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot: Test Accuracy = 75.94%
+Corn_(maize)Common_rust: Test Accuracy = 98.19%
+Corn_(maize)_Northern_Leaf_Blight: Test Accuracy = 84.11%
+Corn_(maize)_healthy: Test Accuracy = 99.61%
+Grape___Black_rot: Test Accuracy = 95.07%
+Grape__Esca(Black_Measles): Test Accuracy = 96.84%
+Grape__Leaf_blight(Isariopsis_Leaf_Spot): Test Accuracy = 97.32%
+Grape___healthy: Test Accuracy = 97.97%
+Orange__Haunglongbing(Citrus_greening): Test Accuracy = 99.53%
+Peach___Bacterial_spot: Test Accuracy = 95.52%
+Peach___healthy: Test Accuracy = 96.68%
+Pepper,bell__Bacterial_spot: Test Accuracy = 87.78%
+Pepper,bell__healthy: Test Accuracy = 96.61%
+Potato___Early_blight: Test Accuracy = 97.29%
+Potato___Late_blight: Test Accuracy = 87.63%
+Potato___healthy: Test Accuracy = 78.79%
+Raspberry___healthy: Test Accuracy = 99.61%
+Soybean___healthy: Test Accuracy = 98.57%
+Squash___Powdery_mildew: Test Accuracy = 99.65%
+Strawberry___Leaf_scorch: Test Accuracy = 99.06%
+Strawberry___healthy: Test Accuracy = 99.52%
+Tomato___Bacterial_spot: Test Accuracy = 85.24%
+Tomato___Early_blight: Test Accuracy = 55.47%
+Tomato___Late_blight: Test Accuracy = 84.94%
+Tomato___Leaf_Mold: Test Accuracy = 76.68%
+Tomato___Septoria_leaf_spot: Test Accuracy = 85.71%
+Tomato___Spider_mites Two-spotted_spider_mite: Test Accuracy = 87.53%
+Tomato___Target_Spot: Test Accuracy = 79.38%
+Tomato___Tomato_Yellow_Leaf_Curl_Virus: Test Accuracy = 95.05%
+Tomato___Tomato_mosaic_virus: Test Accuracy = 88.79%
+Tomato___healthy: Test Accuracy = 94.41%
